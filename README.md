@@ -1,5 +1,11 @@
 # DML_File_Generator
 
+# What the code the code does?
+
+It takes an excel file which has the table name, field names, datatypes, maximum length, precision length, Nullable etc.
+The code takes the excel file and prepares a DML file.
+
+
 ## Using the xlrd module for conduction operations in Excel files.
 
 
